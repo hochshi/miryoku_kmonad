@@ -8,3 +8,4 @@ jobs:
       mode: '["build"]'
       alphas: '["qwerty"]'
       kmonad_os: '["mac"]'
+      mapping: '["noreverseangle"]'
