@@ -6,3 +6,5 @@ jobs:
     uses: ./.github/workflows/main.yml
     with:
       mode: '["build"]'
+      alphas: '["qwerty"]'
+      kmonad_os: '["mac"]'
