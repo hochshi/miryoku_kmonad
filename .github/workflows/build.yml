@@ -7,5 +7,4 @@ jobs:
     with:
       mode: '["build"]'
       alphas: '["colemakdhk"]'
-      mapping: '["tap"]'
       kmonad_os: '["mac"]'
