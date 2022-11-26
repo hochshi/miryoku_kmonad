@@ -7,4 +7,5 @@ jobs:
     with:
       mode: '["build"]'
       alphas: '["qwerty"]'
+      mapping: '["lite"]'
       kmonad_os: '["mac"]'
